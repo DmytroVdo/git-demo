@@ -8,6 +8,8 @@ spring full
 
 summer is true
 for mee
+summer is true
+for mee
 
 roses is red
 sky is blue
@@ -16,5 +18,3 @@ so are You
 my beatiful 
 spring full
 
-summer is true
-for mee
